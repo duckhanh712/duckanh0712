@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Duc Khanh
 - 
-- <!---👀 I’m interested in Nodejs,PHP,Reactjs,java
-- 🌱 I’m currently learning ...
+-👀 I’m interested in Nodejs,PHP,
+-  <!---🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
